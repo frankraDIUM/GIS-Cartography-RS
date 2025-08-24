@@ -91,6 +91,10 @@ The suitability analysis output identifies areas with the lowest flood risk and 
   <img src="https://raw.githubusercontent.com/frankraDIUM/GIS-Cartography-RS/refs/heads/main/Suitability%20Map.jpg"/>
 </div>
 
+![Top 10 Safe Zones]<div>
+  <img src="https://raw.githubusercontent.com/frankraDIUM/GIS-Cartography-RS/refs/heads/main/Safe%20zones%20for%20development.jpg"/>
+</div>
+
 ### 3. Comparative Analysis
 The project compared the MCDA results with a separate Logistic Regression model. The analysis showed that while both models agreed on the location of the highest-risk zones (Very High risk ~1% of area), the MCDA model predicted a larger proportion of the region to be in Low to Moderate risk categories, providing a valuable complementary perspective.
 
